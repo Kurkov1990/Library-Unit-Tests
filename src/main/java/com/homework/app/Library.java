@@ -28,7 +28,7 @@ public class Library {
         return books.size();
     }
 
-    public void clearLibrary(){
+    public void clearLibrary() {
         books.clear();
     }
 }
